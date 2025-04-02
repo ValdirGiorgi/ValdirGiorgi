@@ -31,7 +31,7 @@ Atualmente, estou focado em **Flutter** 💙, mas também já codei muito :
 ## 💼 Experiência Profissional  
 
 Já passei por empresas gigantes, como **Ernst & Young**, **Sonda Brasil** e **Resource IT Solution**.  
-Trabalhei com **SAP, Flutter e Backend**, desenvolvendo soluções para grandes clientes como **Makro Atacadista, OSDE (Argentina), Irmãos Muffato, TIM e Suzano**.  
+Trabalhei com **SAP, Flutter e Backend**, desenvolvendo soluções para grandes clientes como **Johnson & Johnson, TIgre, BRF, Gerdau, OSDE (Argentina), Irmãos Muffato, TIM e Suzano**.  
 
 Sempre pronto para enfrentar desafios e criar soluções inovadoras! 💡  
 
@@ -41,14 +41,14 @@ Sempre pronto para enfrentar desafios e criar soluções inovadoras! 💡
 
 🔥 Adoro aprender novas tecnologias e sempre estou metendo a mão no código!  
 🎮 Quando não estou programando, curto jogar um bom game ou maratonar séries!  
-🚴‍♂️ Amo pedalar e explorar novas trilhas!  
+Amo ficar em família e explorar novas trilhas!  
 
 ---
 
 ## 📬 Bora trocar uma ideia?  
 
-- 📩 **E-mail:** valdirgiorgi@gmail.com  
-- 🌐 **Portfólio:** [isah.dev.br](https://isah.dev.br) *(outra URL, caso tenha)*  
-- 🔗 **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/seu-perfil)  
+- 📩 **E-mail:** contato@valdir.dev.br  
+- 🌐 **Portfólio:** [ValdirGiorgi.dev.br](https://valdirgiorgi.dev.br) 
+- 🔗 **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/valdirgiorgi)  
 
 Vamos bater um papo sobre tech, dev ou até sobre o melhor jeito de passar café! ☕😆  
