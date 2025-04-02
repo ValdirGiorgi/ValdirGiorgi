@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/seu-usuario/seu-repositorio/sua-branch/images/banner.jpg)
+![Banner](https://github.com/ValdirGiorgi/ValdirGiorgi/blob/main/banner.png?raw=true)
 
 
 # 👨‍💻 Valdir Giorgi - Software Engineer  
@@ -48,7 +48,7 @@ Amo ficar em família e explorar novas trilhas!
 ## 📬 Bora trocar uma ideia?  
 
 - 📩 **E-mail:** contato@valdir.dev.br  
-- 🌐 **Portfólio:** [ValdirGiorgi.dev.br](https://valdirgiorgi.dev.br) 
+- 🌐 **Portfólio:** [valdir.dev.br](https://valdir.dev.br) 
 - 🔗 **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/valdirgiorgi)  
 
 Vamos bater um papo sobre tech, dev ou até sobre o melhor jeito de passar café! ☕😆  
